@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 from pathlib import Path
 
@@ -122,7 +121,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000'
 ]
-=======
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -241,4 +239,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000'
 ]
->>>>>>> e5d276f7e39b4e4d244e8c56687a948af8402c34
